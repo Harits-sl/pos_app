@@ -12,7 +12,14 @@ flutter pub get
 ```
 
 # Overview
-<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/1.png" width="200" /> <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/2.png" width="200" /> <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/3.png" width="200" /> 
+## Login
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/1.png" width="200" />
+
+## Home Page for owner
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/2.png" width="200" /> 
+
+## 
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/3.png" width="200" /> 
 
 # Package
 package yang digunakan untuk projek ini
