@@ -15,11 +15,21 @@ flutter pub get
 ## Login
 <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/1.png" width="200" />
 
-## Home Page for owner
+## Home Page for owner and officer
+owner <br />
 <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/2.png" width="200" /> 
 
-## 
-<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/3.png" width="200" /> 
+officer <br />
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/officer%20home%20page.png" width="200" /> 
+
+## cashier page
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/3.png" width="200" />  <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/cashier%202.png" width="200" />  <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/cashier%203.png" width="200" />  <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/cashier%204.png" width="200" />  <img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/cashier%205.png" width="200" /> 
+
+## report page
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/9.png" width="200" /> 
+
+## receipt
+<img src="https://github.com/Harits-sl/pos_app/blob/main/assets/images/ss/10.jpg" width="200" /> 
 
 # Package
 package yang digunakan untuk projek ini
